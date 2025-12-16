@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	git "github.com/libgit2/git2go/v34"
+	git "github.com/hupkit/git2go/v36"
 	bolt "go.etcd.io/bbolt"
 )
 
