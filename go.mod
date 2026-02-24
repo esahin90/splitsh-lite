@@ -3,7 +3,7 @@ module github.com/splitsh/lite
 go 1.22
 
 require (
-	github.com/libgit2/git2go/v34 v34.0.0
+	github.com/hupkit/git2go/v36 v36.1.0
 	go.etcd.io/bbolt v1.3.9
 )
 
